@@ -1,2 +1,5 @@
 # new_repository_1
-This is my first github repository
+## Commits
+This is my first github repository <br>
+
+This is my first change to the repository.
